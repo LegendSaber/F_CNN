@@ -15,7 +15,7 @@ class Configure:
     submit_file = os.path.join(base_path, "submit.csv")
 
     batch_size = 8
-    epochs = 85
+    epochs = 75
 
     lr = 0.005
     decay = 0.0005
